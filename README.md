@@ -38,7 +38,7 @@ To reproduce distribution conditioning, the **Conditional_model.ipnb** the Jupyt
 
 **make\_latent\_space.ipynb** - the script performs the translation from the original space of the features to the so-called latent space.
 
-1. as an input it takes `distributions/pdf.pickle' file that stores the features' original distributions;
+1. as an input it takes `distributions/pdf.pickle` file that stores the features' original distributions;
 
 2. then it draws the graphs of the distributions into `plots/` folder;
 
