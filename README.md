@@ -1,4 +1,8 @@
-# Patient-specific Conditional Joint Models of Shape, Image Features and Clinical Indicators (Machine Learning 2021 Course)
+# Patient-specific Conditional Joint Models of Shape, Image Features and Clinical Indicators <br/>(Machine Learning 2021 Course)
+
+<p align="center">
+<img src="https://github.com/samymone/ML_Final_Project/blob/main/plots/disco.gif" width="400" height="300" center="True">
+</p>
 
 In this work we investigate how clinical indicators may affect the anatomical shape of the brain of Alzheimer's patients. We provide a set of machine learning models as a baseline. Then we try to incorporate a novel Joint Model approach to fit into our data. The Joint Models are related to Bayesian methods as they use conditional distributions to predict features. As a result we get a significant error decrease when using conditioning. The outputs are visualized with the help of Brain Painter software. As a side note, one of the authors found a bug in the software and made a video tutorial on how to fix it, which will be used by the Brain Painter developers in the next official release.
 
